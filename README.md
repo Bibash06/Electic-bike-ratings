@@ -1,4 +1,4 @@
-# Electic-bike-ratings
+# Electic-Moped-Reviews
 Analysis of electric bike
 Background
 EMO is a manufacturer of electric motorcycles.
